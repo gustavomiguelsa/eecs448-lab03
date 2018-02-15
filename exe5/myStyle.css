@@ -8,7 +8,6 @@ p {
 p.secondary
 {
     color: orange;
-    background-color: black;
 }
 
 p.terciary
@@ -28,7 +27,6 @@ p.quad
 
 a
 {
-	background-color: black;
 	color: teal;
 }
 
@@ -65,3 +63,4 @@ img
 	height: 250;
 	width: 250;
 }
+
